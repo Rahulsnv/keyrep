@@ -6,7 +6,12 @@ zoom zoom
 kuch kuch hota hai
 domo grohnik
 brrrrrrr ungrrrr
+<<<<<<< HEAD
 going boing doing
 fnf
 fehi
 eifhi
+=======
+suckness 
+drinkness in brinkness
+>>>>>>> e45564fd685e587a78f366b082fe8274ae9fc142
